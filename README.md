@@ -7,4 +7,4 @@ Collaborative project utilizing the AS608 fingerprint module, ESP32 microcontrol
 - ESP32 microcontroller for processing and connectivity
 - Google Sheets integration for storing enrolment and attendance data
 - Blynk.io cloud for the user interface and IFTTT webhook integration
-- Collaborative project with contributions from [List of Contributors]
+- Collaborative project with Samuel-Audu
